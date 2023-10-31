@@ -14,16 +14,16 @@ html {
 
 /* --------------------------- GLOBALS */
 :root{
-    --primary-100:#F401A2;
-    --primary-200:#ff5cd3;
-    --primary-300:#ffccff;
-    --accent-100:#FFC0CB;
-    --accent-200:#99616c;
+    --primary-100:#FF7F50;
+    --primary-200:#dd6236;
+    --primary-300:#8f1e00;
+    --accent-100:#8B4513;
+    --accent-200:#ffd299;
     --text-100:#000000;
     --text-200:#2c2c2c;
-    --bg-100:#FFFFFF;
-    --bg-200:#f5f5f5;
-    --bg-300:#cccccc;
+    --bg-100:#F7EEDD;
+    --bg-200:#ede4d3;
+    --bg-300:#c4bcab;
 }
 body {
     background-color: var(--bg-100);
